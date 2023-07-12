@@ -1,1 +1,1 @@
-# kotlin_syntax
+# Kotlinの書き方や挙動について学ぶリポジトリ
