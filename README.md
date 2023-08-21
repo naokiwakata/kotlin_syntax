@@ -6,3 +6,4 @@
 - StateFlow
 - Koin
 - mockk
+- sequense
